@@ -2,6 +2,13 @@
 Waffle Changelog
 ================
 
+v0.11.2
+=======
+- Fix management commands for Django 1.10
+- Switch to new Middleware Style
+- Drop old patterns style
+
+
 v0.11.1
 =======
 
